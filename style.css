@@ -1,4 +1,4 @@
-.head{
+.header{
     text-align: center;
 }
 img{
@@ -8,8 +8,19 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-.foot{
+.footer{
     text-align: center;
     background-color: black;
     color: white;
+}
+.button{
+    margin-left: 50%;
+    margin-top: 10px;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+.text{
+    text-align: center;
 }
